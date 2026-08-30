@@ -1,0 +1,17 @@
+#links {
+
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  position: fixed;
+  right: 64px;
+  bottom: 64px;
+  background-color: #222222a2;
+  gap: 12px;
+  border-radius: 12px;
+
+  a{
+    color: white;
+
+  }
+}
